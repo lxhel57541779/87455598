@@ -1,4 +1,5 @@
 while (rs.next())
+while (rs.next())
 try {
 out = new BufferedWriter(new FileWriter(”filename”, true));
 BufferedWriter out = null;
