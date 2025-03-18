@@ -1,3 +1,4 @@
+} finally {
 test.init();
 try {
 public static void main(String[] args)
