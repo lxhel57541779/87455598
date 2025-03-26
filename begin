@@ -1,3 +1,4 @@
+rs.close();
 OracleJdbcTest test = new OracleJdbcTest();
 String password = props.getProperty("db.password");
 BufferedWriter out = null;
