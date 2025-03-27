@@ -1,3 +1,4 @@
+String url = props.getProperty("db.url");
 rs.close();
 OracleJdbcTest test = new OracleJdbcTest();
 String password = props.getProperty("db.password");
