@@ -1,4 +1,5 @@
 Properties props = new Properties();
+Properties props = new Properties();
 out = new BufferedWriter(new FileWriter(”filename”, true));
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 Connection con;
